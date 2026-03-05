@@ -92,10 +92,7 @@ Marks the module as incomplete.
 ## Example Usage
 
 ```python
-module = CourseModule(
-    "Introduction to Machine Learning",
-    "Learn about AI and how to write automation"
-)
+module = CourseModule("Introduction to Machine Learning","Learn about AI and how to write automation")
 
 print(module.get_title())
 print(module.get_completion_status())
@@ -158,3 +155,4 @@ Python Programmer | Data Enthusiast | Educational Technology Builder
 ## License
 MIT License
 This project is open-source and can be used for educational purposes.
+
