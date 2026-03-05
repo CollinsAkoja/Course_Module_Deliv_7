@@ -1,4 +1,4 @@
-##python script for course module.
+## python script for course module.
 class CourseModule:
     def __init__(self, title, content):
         self.__title = title # hidden/ private attributes for the title
